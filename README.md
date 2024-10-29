@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Sandbox Startup Accelerator Program](https://github.com/masonnh/masonnh/blob/main/img/Sandbox-Cover.jpg)
+
 <!--
 **masonnh/masonnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
