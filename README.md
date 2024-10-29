@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Sandbox Startup Accelerator Program](https://github.com/masonnh/masonnh/blob/main/img/Sandbox-Cover.jpg)
 
 <!--
