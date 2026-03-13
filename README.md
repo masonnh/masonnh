@@ -10,4 +10,11 @@ I'm a "hands-on-keyboard" type of guy. I love building web applications and work
 ![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonnh&show_icons=true&theme=moltack&hide=stars)
 ![Mason's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonnh&theme=moltack&layout=donut)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=masonnh&show_icons=true&theme=moltack&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonnh&theme=moltack&layout=donut&card_width=320" />
+</a>
+
 *GitHub stats from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)*
