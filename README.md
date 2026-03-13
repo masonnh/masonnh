@@ -7,7 +7,7 @@ I'm a "hands-on-keyboard" type of guy. I love building web applications and work
 ![Stats](./profile/stats.svg)
 
 ## 🔢 Stats
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonnh&show_icons=true&theme=tokyonight&hide=stars)
-![Mason's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonnh&theme=tokyonight)
+![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonnh&show_icons=true&theme=moltack&hide=stars)
+![Mason's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonnh&theme=moltack&layout=donut)
 
 *GitHub stats from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)*
