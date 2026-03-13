@@ -3,6 +3,9 @@
 ## 🖐️ About Me
 I'm a "hands-on-keyboard" type of guy. I love building web applications and working with APIs. My favorite frameworks are NextJS and Python Django. When I'm not writing code, I'm probably reading about wizards, exploring the outdoors, or playing games with my friends.
 
+## 🔢 Self Hosted Stats
+![Stats](./profile/stats.svg)
+
 ## 🔢 Stats
 ![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonnh&show_icons=true&theme=tokyonight&hide=stars)
 ![Mason's Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonnh&theme=tokyonight)
