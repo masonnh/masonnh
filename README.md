@@ -1,11 +1,16 @@
-# 🖐️ About Me
+# 🖐️ Hello!
 
 I like building web applications and working with APIs. My favorite frameworks are Next.js and Python Django. I also enjoy automation with Python.<br>
 When I'm not writing code, I'm probably reading about wizards, exploring nature, or playing games with my friends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masonnh/)
 
-# 💻 Tech Stack:
+# 👷 Projects
+
+- [Next Starter App](https://github.com/masonnh/NextStarterApp) - a starter Next.js app for web-based tech startups, providing pre-built features
+- [Focus Guard](https://github.com/masonnh/focus-guard) - a simple Chrome extension to block websites with one click
+
+# 💻 Tech Stack
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
